@@ -1,0 +1,3 @@
+[submodule "ember-backstop/backstop_data/bitmaps_reference"]
+	path = ember-backstop/backstop_data/bitmaps_reference
+	url = git@github.com:mike-north/ember-octane-workshop--images.git
